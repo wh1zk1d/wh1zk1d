@@ -2,12 +2,12 @@
 
 I'm a full-stack web dev, so you'll mainly find web based projects around here.
 
-- ✨ React
-- 🤓 HTML
-- 💅🏼 CSS
-- 🤖 Node.js
-- 🦕 PHP
-- 📚 MySQL
-- 👾 MongoDB
+- ✨  React
+- 🤓  HTML
+- 💅🏼  CSS
+- 🤖  Node.js
+- 🦕  PHP
+- 📚  MySQL
+- 👾  MongoDB
 
-📬 How to reach me: jb@connect2.de
+📬  How to reach me: jb@connect2.de

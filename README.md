@@ -2,7 +2,7 @@
 
 ### Hello there! 🤖
 
-I'm a full-stack web dev, so you'll mainly find web based projects around here.
+I'm a full-stack web dev, so you'll mainly find web based projects around here :)
 
 - ✨  React
 - 🤓  HTML

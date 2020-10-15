@@ -2,7 +2,7 @@
 
 I'm a full-stack web dev, so you'll mainly find web based projects around here :)
 
-- ✨  React
+- ⚛️  React
 - 🤓  HTML
 - 💅🏼  CSS
 - 🤖  Node.js

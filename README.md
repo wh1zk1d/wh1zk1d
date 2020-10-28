@@ -6,6 +6,7 @@ I'm a full-stack web dev, so you'll mainly find web based projects around here :
 - 🤓  HTML
 - 💅🏼  CSS
 - 🤖  Node.js
+- 🚀 TypeScript
 - 🦕  PHP
 - 📚  MySQL
 - 👾  MongoDB

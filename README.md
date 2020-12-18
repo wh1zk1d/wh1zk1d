@@ -7,8 +7,7 @@ I'm a full-stack web dev, so you'll mainly find web based projects around here :
 - 💅🏼  CSS
 - 🤖  Node.js
 - 🚀 TypeScript
-- 🦕  PHP
-- 📚  MySQL/PostgreSQL
-- 👾  MongoDB
+- 🦕  Deno
+- 🥞  MySQL/PostgreSQL
 
-📬  How to reach me: jb@connect2.de
+📬  How to reach me: wh1zk1d@protonmail.com

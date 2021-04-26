@@ -5,6 +5,7 @@ I'm a fullstack developer, working with Node.js on the backend and React in the 
 - ⚛️  React
 - ✨ Gatsby
 - ⚡️ Next.js
+- ⚙️ WordPress (Headless/Default)
 - 🤓  HTML
 - 💅🏼  CSS
 - 🐟  JavaScript
